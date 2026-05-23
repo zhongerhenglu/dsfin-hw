@@ -55,32 +55,32 @@
 ---
 
 ## 📂 标准目录结构
-submissions/25PB/Team02‑G04/
-├─ data/                         # 汇总总数据集
-├─ image/                        # 备用图片文件夹
-├─ output/
-│  └─ charts/                    # 分析输出图表
-│     ├─ fed_rate.png
-│     ├─ macro_liquidity.png
-│     ├─ profit_structure.png
-│     └─ trend_2010_2026.png
-├─ Team02‑G04‑原油SC + PTA投资分析/    # 子板块1
-│  ├─ charts/
-│  └─ data/
-├─ Team02‑G04‑碳酸锂期货LC投资分析/    # 子板块2
-├─ Team02‑G04‑螺纹钢RB、铁矿石I投资分析/# 子板块3
-│  └─ data_clean/
-├─ Team02‑G04‑黄金现货投资分析/        # 子板块4
-│  ├─ charts/
-│  └─ data/
-├─ merge_all_data_to_root.py     # 子板块数据合并脚本
-├─ readme.md                     # 项目说明、数据方法、文件清单
-├─ report.ipynb                  # 完整分析代码、数据处理、绘图
-├─ report.md                     # 研究报告文本版
-├─ report.html                   # 报告网页版
-├─ requirements.txt              # Python依赖包
-├─ slides.md                     # 汇报PPT源文件
-└─ Slides.pdf                    # 导出PDF汇报文件
+submissions/25PB/Team02‑G04/  
+├─ data/                         # 汇总总数据集  
+├─ image/                        # 备用图片文件夹  
+├─ output/  
+│  └─ charts/                    # 分析输出图表  
+│     ├─ fed_rate.png  
+│     ├─ macro_liquidity.png  
+│     ├─ profit_structure.png  
+│     └─ trend_2010_2026.png  
+├─ Team02‑G04‑原油SC + PTA投资分析/    # 子板块1  
+│  ├─ charts/  
+│  └─ data/  
+├─ Team02‑G04‑碳酸锂期货LC投资分析/    # 子板块2  
+├─ Team02‑G04‑螺纹钢RB、铁矿石I投资分析/# 子板块3  
+│  └─ data_clean/  
+├─ Team02‑G04‑黄金现货投资分析/        # 子板块4  
+│  ├─ charts/  
+│  └─ data/  
+├─ merge_all_data_to_root.py     # 子板块数据合并脚本  
+├─ readme.md                     # 项目说明、数据方法、文件清单  
+├─ report.ipynb                  # 完整分析代码、数据处理、绘图  
+├─ report.md                     # 研究报告文本版  
+├─ report.html                   # 报告网页版  
+├─ requirements.txt              # Python依赖包  
+├─ slides.md                     # 汇报PPT源文件  
+└─ Slides.pdf                    # 导出PDF汇报文件  
 
 ---
 ## 🔧 运行环境（可直接安装）
