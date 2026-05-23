@@ -2,6 +2,7 @@
 marp: true
 title: 大宗商品期货量化分析汇报
 theme: default
+size: 16:9
 ---
 # 大宗商品期货量化分析
 ## Team02‑G04
